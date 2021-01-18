@@ -1,6 +1,17 @@
 # navigation2
 
-A new Flutter application.
+This application containe 5 main pages
+
+1 Splash screen
+2 Guest Home Screeen
+3 Login Screen
+4 Registered User
+5 User Home
+
+In Splash screen system will check for the user token in cache. If exist it will navigate user to Home screen. Otherviews user will be navigated to Guest Home Screen.
+
+From Guest Home user can navigate to either Login or Register Screens. 
+
 
 ## Getting Started
 
